@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=K2D:400,700');
+
+p {
+  font-family: 'K2D', sans-serif;
+}
+
+body {
+  background-image: url(page.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.footer {
+  flex: 0 0 auto;
+}
+
+div.name {
+  font-size: 3em;
+  font-style: italic;
+  margin-bottom: 0;
+  color: #ffd700;
+  text-align: center;  
+}
+
+.name img {
+	height: 500px;
+	position: center;
+}
+
+div.element {
+	text-align: center;
+}
+
+span {
+	font-weight: bold;
+	color: #ffff00;
+}
